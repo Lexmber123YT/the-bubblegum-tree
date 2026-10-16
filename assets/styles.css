@@ -489,6 +489,8 @@ figure.print figcaption {
   align-items: center;
 }
 .author-teaser .placeholder--portrait { width: min(100%, 300px); margin: 0 auto; }
+/* No photo yet: one column. Drop this class when her photo goes in. */
+.author-teaser.author-teaser--solo { grid-template-columns: 1fr; max-width: 760px; }
 
 /* ---------- responsive ---------- */
 @media (min-width: 720px) {
