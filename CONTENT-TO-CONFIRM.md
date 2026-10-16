@@ -37,4 +37,5 @@ Everything on the site was written from her interview on the Global Book Network
 ## Not on the site yet, on purpose
 
 - The second book. William said to leave it out until it's closer.
-- Any mention of the site being a draft. The `noindex` tag keeps it out of Google until she approves.
+- **Held back when the site went public on 2026-10-16** (Brenda had only skimmed it): the "A note from Brenda" section in her voice, the lines saying her dad passed away in 2026 (About page and Book page), and the empty "Say hello" section. The old text is in commit 624ba65. Put each back once she has read and okayed it.
+- The "Photo of Brenda coming soon" frames. The home card is text-only and the About page shows the cover until her photo arrives.

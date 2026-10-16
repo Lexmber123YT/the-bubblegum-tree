@@ -19,7 +19,7 @@ Website for *The Bubblegum Tree* by Brenda Oney Morris (Christian Faith Publishi
 
 Edit the HTML, commit, push. GitHub Pages redeploys in about a minute.
 
-Every page has `<meta name="robots" content="noindex">` while it's a draft. Remove that line from all three pages when Brenda approves the site.
+The site went public (search engines allowed) on 2026-10-16. `sitemap.xml` lists the three pages; add any new page to it.
 
 ## Adding a book later
 
