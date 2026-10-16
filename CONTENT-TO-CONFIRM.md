@@ -37,5 +37,5 @@ Everything on the site was written from her interview on the Global Book Network
 ## Not on the site yet, on purpose
 
 - The second book. William said to leave it out until it's closer.
-- **Held back when the site went public on 2026-10-16** (Brenda had only skimmed it): the "A note from Brenda" section in her voice, the lines saying her dad passed away in 2026 (About page and Book page), and the empty "Say hello" section. The old text is in commit 624ba65. Put each back once she has read and okayed it.
+- **2026-10-16, Brenda via William:** anything from her YouTube interview is fine to use, including Grandpa and her dad. The note in her voice and the lines about her dad are back. **She wrote the book before her dad died**: his death did not inspire it; Grandpa is a picture of him while he was alive. Never write that the book came from his death or is a memorial. The empty "Say hello" section stays off until there's an email.
 - The "Photo of Brenda coming soon" frames. The home card is text-only and the About page shows the cover until her photo arrives.
