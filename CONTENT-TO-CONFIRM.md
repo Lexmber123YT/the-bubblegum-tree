@@ -39,3 +39,9 @@ Everything on the site was written from her interview on the Global Book Network
 - The second book. William said to leave it out until it's closer.
 - **2026-10-16, Brenda via William:** anything from her YouTube interview is fine to use, including Grandpa and her dad. The note in her voice and the lines about her dad are back. **She wrote the book before her dad died**: his death did not inspire it; Grandpa is a picture of him while he was alive. Never write that the book came from his death or is a memorial. The empty "Say hello" section stays off until there's an email.
 - The "Photo of Brenda coming soon" frames. The home card is text-only and the About page shows the cover until her photo arrives.
+
+## Brenda's direction, 2026-10-16 (via William)
+
+- Focus the site on what the back of the book says, with more eloquence and a little less to-the-point. Done: the back-cover text is quoted word for word on the home page, the copy on all three pages was rewritten in a warmer, fuller voice, and the book page no longer gives away the ending.
+- The dedication page is quoted word for word on the book page. It names her dad: **Troy** ("Grandpa Troy" to her children), the same name as the boy in the story. The site doesn't spell that connection out.
+- More book pages may come from William. Use them to quote real lines, check the Grandpa quote, and replace the trailer stills in "A peek inside".

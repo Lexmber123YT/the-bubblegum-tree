@@ -482,6 +482,31 @@ figure.print figcaption {
 .site-footer p { margin: 0; }
 .site-footer .heart { color: var(--gum-pink); }
 
+/* Book text (back cover, dedication), set like a printed card. */
+.book-card {
+  background: #fff;
+  border: 2px solid var(--line);
+  border-radius: 10px;
+  padding: 22px 26px 8px;
+  margin: 0 0 1.4em;
+  box-shadow: var(--shadow-soft);
+  transform: rotate(-0.6deg);
+  font-style: italic;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+.book-card em { font-style: normal; }
+.book-card .book-card__label {
+  font-family: var(--font-display);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--coral-deep);
+  margin-bottom: 0.5em;
+}
+
 /* Little author card on the home page. */
 .author-teaser {
   display: grid;
