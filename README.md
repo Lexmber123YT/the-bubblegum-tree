@@ -27,9 +27,9 @@ The site went public (search engines allowed) on 2026-10-16. `sitemap.xml` lists
 2. Add a card for it on `index.html` and a nav entry on every page.
 3. Optionally rename the "The Book" nav item to "Books" and make it a small list page.
 
-## Custom domain later
+## Domain
 
-Add a `CNAME` file containing the domain, and point the domain's DNS at GitHub Pages. GitHub's docs: Settings → Pages → Custom domain.
+**https://brendaoneymorris.com/** since 2026-10-16. Bought by William at Porkbun (renews each October). Porkbun DNS: four apex A + four AAAA records for GitHub Pages, `www` CNAME to `lexmber123yt.github.io`, and Porkbun's email-forwarding MX/SPF kept for a future address. `CNAME` file holds the domain; the canonical links, `og:image` and `sitemap.xml` use the full https address. The old github.io address forwards here.
 
 ## Local preview
 
