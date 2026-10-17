@@ -507,6 +507,26 @@ figure.print figcaption {
   margin-bottom: 0.5em;
 }
 
+/* A scripture line under a heading. */
+.verse {
+  font-style: italic;
+  font-size: 1.08rem;
+  color: var(--ink-soft);
+  max-width: 34rem;
+  margin: 0 0 1.4em;
+}
+.verse cite {
+  display: block;
+  margin-top: 0.3em;
+  font-family: var(--font-display);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--coral-deep);
+}
+
 /* Little author card on the home page. */
 .author-teaser {
   display: grid;
